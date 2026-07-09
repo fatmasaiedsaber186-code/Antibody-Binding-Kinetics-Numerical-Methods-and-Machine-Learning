@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+tensorflow
+torch
+torch-geometric
+tqdm
+ipywidgets
+jupyter
